@@ -18,7 +18,8 @@ A responsive clone of the Twitter UI built using **HTML** and **Tailwind CSS**. 
 ## Screenshot
 
 
-![Screenshot 2024-12-12 170657](https://github.com/user-attachments/assets/7af3c09e-1639-4b18-9f44-5421fd9c9a71)
+![Screenshot 2024-12-12 173653](https://github.com/user-attachments/assets/ea84f5a6-f5c3-43d7-ad1c-a4a7353bde03)
+
 
 
 ## How to Run
