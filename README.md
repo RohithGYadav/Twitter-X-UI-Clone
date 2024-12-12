@@ -26,4 +26,4 @@ A responsive clone of the Twitter UI built using **HTML** and **Tailwind CSS**. 
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/twitter-ui-clone.git
-2.Navigate to the project directory in VS Code Studio and run the index.html file.
+2.Navigate to the project directory in VS Code and run the index.html file.
